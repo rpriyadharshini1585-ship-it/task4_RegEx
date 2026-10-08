@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Mandatory-Disclosure_2024-2025_Final.pdf - Go",
+  "Type": "Screen",
+  "Id": "-G8CcjKlb0m7N23PizfY9A",
+  "Reference": "8AMMaHnmZE6iQGlzKkPo1Q/-G8CcjKlb0m7N23PizfY9A",
+  "ParentRef": "8AMMaHnmZE6iQGlzKkPo1Q/uItpixIZgkCKbxDdFJQf6w",
+  "Created": "2026-09-30T08:26:05.6926547Z",
+  "Updated": "2026-09-30T08:26:05.6926547Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
